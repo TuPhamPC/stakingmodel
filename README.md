@@ -1,8 +1,9 @@
+## Link data
+https://drive.google.com/drive/folders/1anqApI8sP5jFZRRIMMrvO8K2rTeOCU7I
 ## Cài đặt
 
 1. **Yêu cầu hệ thống**
    - Python 3.x
-   - Jupyter Notebook
    - Các gói thư viện cần thiết đã được cài đặt
 
 2. **Cài đặt thư viện**
